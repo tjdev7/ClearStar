@@ -1,2 +1,3 @@
-# astronomy-app
-React app using GraphQL for an astronomy project
+# ClearStar
+
+Newsfeed app for news relating to astronomy, space travel and science

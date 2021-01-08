@@ -1,25 +1,33 @@
-import logo from './logo.svg';
+import React from 'react';
+import ReactDom from 'react-dom';
 import './App.css';
 
-function App() {
+function NewsFeed() {
+
+
   return (
-    <div className="App">
+    <div>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <nav>
+        <h1>ClearStar </h1>
+        </nav>
       </header>
+
+      <ul>
+
+      </ul>
+
+      <main>
+        <section>
+          //
+          //icon
+          // News title w/ working url 
+          //
+          //
+        </section>
+        </main>
     </div>
   );
 }
 
-export default App;
+export default NewsFeed;
