@@ -5,20 +5,12 @@ import './App.css';
 function NewsFeed() {
   return (
     <div>
-      <header className="main-header">
-        <nav>
-        <h1>ClearStar •</h1>
-        </nav>
+      <header className="">
+        <h1>ClearStar</h1>
       </header>
-
-      <main>
         <section>
             <ul>
               <li>
-              icon
-              </li>
-
-              <li>
                 News title w/ working url 
               </li>
               <li>
@@ -42,12 +34,30 @@ function NewsFeed() {
               </li>
 
               <li>
+                News title w/ working url 
+              </li>
+
+              <li>
+                News title w/ working url 
+              </li>
+
+              <li>
+                News title w/ working url 
+              </li>
+
+              <li>
+                News title w/ working url 
+              </li>
+               <li>
+                News title w/ working url 
+              </li>
+               <li>
                 News title w/ working url 
               </li>
 
              </ul>
         </section>
-        </main>
+
     </div>
   );
 }
@@ -64,8 +74,21 @@ export default NewsFeed;
 //}
 //
 //componentDidMount 
-//
-//
+//axios
+
+
+// render() {
+//   return(
+//     const {} = this.state; 
+//     <div>
+//       <section>
+//         <ul>
+//           <li></li>
+//         </ul>
+//       </section>
+//     </div>
+//     )
+// }
 //
 //
 //
