@@ -1,18 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Teko:wght@500&display=swap');
 
-
 .App {
   text-align: right;
 }
 
+h1 {
+  text-align: right;
+  font-size: 2.5rem;
+  font-family: 'Audiowide', cursive;
+  margin: 5px;
+  background-color: #282c34;
+}
+
 
 .main-header {
-  
   text-align: right;
   color: #F3FF33;
   background-color: #282c34;
-  /*padding: 10px;*/
-  border-bottom: 10px solid grey;
   font-family: 'Audiowide', cursive;
   font-size: 20px;
 }
@@ -25,8 +29,16 @@ ul,
 li {
   text-decoration: none;
   font-family: 'Teko', sans-serif;
-  font-size: 1.8rem;
-  padding: 5px;
+  font-size: 1.5rem;
+  padding: 2px 0px 0px 10px;
+}
+
+li{
+  border-bottom: 1px solid #F3FF33; 
+  border-right: 2px solid #F3FF33; 
+  margin: 7px 30px 0px 7px;
+  list-style-type: none;
+  margin-right: 20px;
 }
 
 nav {
@@ -46,10 +58,8 @@ nav {
 
 }
 
-
-
 body {
-  background-color: #282c34;
+  background-color: #404247;
   color: #F3FF33;
 }
 
