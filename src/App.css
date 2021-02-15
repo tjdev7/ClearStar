@@ -8,8 +8,8 @@ h1 {
   text-align: right;
   font-size: 2.5rem;
   font-family: 'Audiowide', cursive;
-  margin: 5px;
-  background-color: #282c34;
+  margin: 10px;
+/*  background-color: #282c34;*/
 }
 
 
@@ -18,12 +18,8 @@ h1 {
   color: #F3FF33;
   background-color: #282c34;
   font-family: 'Audiowide', cursive;
-  font-size: 20px;
+  font-size: 1rem;
 }
-
-/*.App-link {
-  color: #61dafb;
-}*/
 
 ul,
 li {
@@ -34,8 +30,9 @@ li {
 }
 
 li{
-  border-bottom: 1px solid #F3FF33; 
-  border-right: 2px solid #F3FF33; 
+  border-bottom: 0.8px dotted #F3FF33; 
+/*  border-right: 2px solid #F3FF33; 
+*/  
   margin: 7px 30px 0px 7px;
   list-style-type: none;
   margin-right: 20px;
