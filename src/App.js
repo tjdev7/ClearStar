@@ -9,53 +9,8 @@ function NewsFeed() {
         <h1>ClearStar</h1>
       </header>
         <section>
-            <ul>
-              <li>
-                News title w/ working url 
-              </li>
-              <li>
-                News title w/ working url 
-              </li>
 
-              <li>
-                News title w/ working url 
-              </li>
 
-              <li>
-                News title w/ working url 
-              </li>
-
-              <li>
-                News title w/ working url 
-              </li>
-
-              <li>
-                News title w/ working url 
-              </li>
-
-              <li>
-                News title w/ working url 
-              </li>
-
-              <li>
-                News title w/ working url 
-              </li>
-
-              <li>
-                News title w/ working url 
-              </li>
-
-              <li>
-                News title w/ working url 
-              </li>
-               <li>
-                News title w/ working url 
-              </li>
-               <li>
-                News title w/ working url 
-              </li>
-
-             </ul>
         </section>
 
     </div>
@@ -96,3 +51,54 @@ export default NewsFeed;
 //
 //
 //
+
+
+
+//             <ul>
+//               <li>
+//                 News title w/ working url 
+//               </li>
+//               <li>
+//                 News title w/ working url 
+//               </li>
+
+//               <li>
+//                 News title w/ working url 
+//               </li>
+
+//               <li>
+//                 News title w/ working url 
+//               </li>
+
+//               <li>
+//                 News title w/ working url 
+//               </li>
+
+//               <li>
+//                 News title w/ working url 
+//               </li>
+
+//               <li>
+//                 News title w/ working url 
+//               </li>
+
+//               <li>
+//                 News title w/ working url 
+//               </li>
+
+//               <li>
+//                 News title w/ working url 
+//               </li>
+
+//               <li>
+//                 News title w/ working url 
+//               </li>
+//                <li>
+//                 News title w/ working url 
+//               </li>
+//                <li>
+//                 News title w/ working url 
+//               </li>
+
+//              </ul>
+// //
