@@ -3,4 +3,4 @@
 
 # ClearStar
 
-Newsfeed app for news relating to astronomy, space travel and science
+Newsfeed app using a REST API to gather news relating to astronomy, space travel and science. Source of news is from the website ![Space.com](https://www.space.com/)
