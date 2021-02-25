@@ -1,28 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Teko:wght@500&display=swap');
 
-.App {
-  text-align: right;
-}
-
 h1 {
   text-align: right;
-  font-size: 2.5rem;
+  font-size: 2.8rem;
   font-family: 'Audiowide', cursive;
-  margin: 10px;
-/*  background-color: #282c34;*/
+  color: #282c34;
+  padding: 15px;
 }
 
-
-.main-header {
-  text-align: right;
-  color: #F3FF33;
-  background-color: #282c34;
-  font-family: 'Audiowide', cursive;
-  font-size: 1rem;
+.header-bar {
+  background-color: Orange;
+  margin: -35px -8px 0px -8px;
 }
 
 ul,
-li {
+/*li {
   text-decoration: none;
   font-family: 'Teko', sans-serif;
   font-size: 1.5rem;
@@ -31,12 +23,10 @@ li {
 
 li{
   border-bottom: 0.8px dotted #F3FF33; 
-/*  border-right: 2px solid #F3FF33; 
-*/  
   margin: 7px 30px 0px 7px;
   list-style-type: none;
   margin-right: 20px;
-}
+}*/
 
 nav {
 
@@ -63,11 +53,6 @@ body {
 .app-news-section {
 
 }
-
-/*
-app-news-
-*/
-
 
 .app-newsfeed-icon {
 
