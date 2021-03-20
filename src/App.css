@@ -9,24 +9,18 @@ h1 {
 }
 
 .header-bar {
-  background-color: Orange;
+  background-color: #FFA500;
   margin: -35px -8px 0px -8px;
 }
 
 ul,
-/*li {
-  text-decoration: none;
-  font-family: 'Teko', sans-serif;
-  font-size: 1.5rem;
-  padding: 2px 0px 0px 10px;
-}
-
 li{
-  border-bottom: 0.8px dotted #F3FF33; 
+  font-family: 'Teko', sans-serif;
+  font-size: 3rem;
   margin: 7px 30px 0px 7px;
   list-style-type: none;
   margin-right: 20px;
-}*/
+}
 
 nav {
 
@@ -62,8 +56,10 @@ body {
 
 }
 
-.app-news-url {
-  
+.news-url {
+  font-size: 2.5rem;
+  padding: 5px;
+  font-family: 'Teko', sans-serif;
 }
 
 
@@ -75,3 +71,10 @@ footer {
 
 }
 
+/*li {
+  text-decoration: none;
+  
+  padding: 2px 0px 0px 10px;
+  border-bottom: 0.8px dotted #F3FF33; 
+}
+*/
