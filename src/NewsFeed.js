@@ -1,12 +1,10 @@
 import React from 'react';
-import './App.css';
+import './index.css';
 
 function NewsFeed() {
   return (
     <div>
-      <header className="header-bar">
-        <h1>ClearStar</h1>
-      </header>
+
         <section>
           <ul>
                <li>
